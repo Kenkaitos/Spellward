@@ -70,12 +70,12 @@
   components:
   - type: ImperialStore
     balance:
-      MagicMedievalFire: 70
-      MagicMedievalLight: 70
-      MagicMedievalVodka: 70
-      MagicMedievalEarth: 70
+      MagicMedievalFire: 30
+      MagicMedievalLight: 30
+      MagicMedievalVodka: 30
+      MagicMedievalEarth: 30
       MagicMedievalDarkness: 0
-      ArchmagePoints: 2
+      ArchmagePoints: 1
 
 - type: entity
   parent: MedievalSpellBookBase
